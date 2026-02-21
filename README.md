@@ -1,17 +1,6 @@
-# Cadastro-Login
-Sistema simples de cadastro de login.
-Vamos para um...
-import java.util.Scanner;
+# Curso digital Git
 
-public class CadastroDeLoginAula22 {
-    public static void main(String[] args) {
-        Scanner input = new Scanner(System.in);
-        System.out.println("Digite o seu nome: ");
-        String nome = input.next();
-        if (nome.equals("") || nome.equalsIgnoreCase("admin") || nome.equalsIgnoreCase("administrador")){
-            System.out.println(" Usuário invalido");
-        }else {
-        System.out.println(nome + " Cadastrado com sucesso ");
-        }
-    }
-}
+## Salvando alterações no Git
+* comando git push
+* comando git pull
+* comando git fech
