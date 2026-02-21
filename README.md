@@ -1,7 +1,6 @@
 # Cadastro-Login
 Sistema simples de cadastro de login.
 
-
 import java.util.Scanner;
 
 public class CadastroDeLoginAula22 {
